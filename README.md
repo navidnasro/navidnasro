@@ -45,8 +45,8 @@ I'm a full-stack developer with a solid background in cybersecurity and cross-pl
 <a href="https://github.com/navidnasro/upon-word">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=navidnasro&repo=upon-word&theme=default" />
 </a>
-<a href="https://github.com/navidnasro/StockPrice-Manager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=navidnasro&repo=StockPrice-Manager&theme=default" />
+<a href="https://github.com/navidnasro/restpressMVC">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=navidnasro&repo=restpressMVC&theme=default" />
 </a>
 
 <!-- Add more pinned repos as needed -->
