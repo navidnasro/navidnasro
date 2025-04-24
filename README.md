@@ -37,6 +37,9 @@ I'm a full-stack developer with a solid background in cybersecurity and cross-pl
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navidnasro&layout=compact&theme=default&count_private=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=navidnasro&theme=default)
 ![Profile Views](https://komarev.com/ghpvc/?username=navidnasro&label=Profile+Views&color=0e75b6&style=flat)
+(http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=winstonjgz&theme=vue)
+(http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=winstonjgz&theme=vue)
+(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=winstonjgz&theme=vue)
 
 ---
 
