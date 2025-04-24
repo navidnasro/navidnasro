@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Navid Nasrollahnejad
+# 👋 Hi, I'm Navid Nasrollahnejad ![Profile Views](https://komarev.com/ghpvc/?username=navidnasro&label=Profile+Views&color=0e75b6&style=flat)
 
 🚀 **Full-Stack Developer @ [KeepGrowUp](https://keepgrowup.com/)**  
 💻 Passionate about building scalable backend systems, elegant frontends, and secure, performance-driven applications.
@@ -26,6 +26,7 @@ I'm a full-stack developer with a solid background in cybersecurity and cross-pl
 <!-- Frameworks & Tools -->
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
@@ -35,10 +36,6 @@ I'm a full-stack developer with a solid background in cybersecurity and cross-pl
 
 ![Navid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=navidnasro&show_icons=true&theme=default&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navidnasro&layout=compact&theme=default&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=navidnasro&theme=default)
-![Profile Views](https://komarev.com/ghpvc/?username=navidnasro&label=Profile+Views&color=0e75b6&style=flat)
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=navidnasro&theme=vue">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=navidnasro&theme=vue">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navidnasro&theme=vue">
 
 ---
